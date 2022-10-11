@@ -1,0 +1,16 @@
+let a="harshita";
+let b="sunbeam_school";
+let c="A";
+let d="B";
+let e="8";
+let f="100";
+let g="98";
+let h="100";
+console.log("name:              "+a);
+console.log("School_name:       "+b);
+console.log("Grade:             "+c);
+console.log("Section:           "+d);
+console.log("Rollno:            "+e);
+console.log("English:           "+f);
+console.log("Maths:             "+g);
+console.log("Science:           "+h);
